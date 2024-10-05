@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Kamen Rider Wiki</string>
+
+    <string name="series_name">Series Name</string>
+    <string name="theme">Theme</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="share">Share</string>
+    <string name="email">Email</string>
+    <string name="dimazanugrah64_gmail_com">dimazanugrah64@gmail.com</string>
+    <string name="github">github</string>
+
+
+    <string-array name="data_name">
+        <item>Kamen Rider Kuga</item>
+        <item>Kamen Rider Agito</item>
+        <item>Kamen Rider Ryuki</item>
+        <item>Kamen Rider Faiz</item>
+        <item>Kamen Rider Blade</item>
+        <item>Kamen Rider Hibiki</item>
+        <item>Kamen Rider Kabuto</item>
+        <item>Kamen Rider Den-O</item>
+        <item>Kamen Rider Kiva</item>
+        <item>Kamen Rider Decade</item>
+        <item>Kamen Rider W</item>
+        <item>Kamen Rider OOO</item>
+        <item>Kamen Rider Fourze</item>
+        <item>Kamen Rider Wizard</item>
+        <item>Kamen Rider Gaim</item>
+        <item>Kamen Rider Drive</item>
+        <item>Kamen Rider Ghost</item>
+        <item>Kamen Rider Ex-Aid</item>
+        <item>Kamen Rider Build</item>
+        <item>Kamen Rider Zi-O</item>
+    </string-array>
+
+    <string-array name="data_theme">
+        <item>Kamen Rider Kuga memiliki kemampuan untuk berubah menjadi berbagai bentuk dengan kekuatan yang berbeda, menggunakan armor yang terinspirasi dari makhluk mitologi.</item>
+        <item>Agito memiliki kemampuan untuk bertransformasi menjadi tiga bentuk yang berbeda dan juga mengeksplorasi tema tentang kekuatan dan identitas.</item>
+        <item>Memperkenalkan konsep Rider Battle, di mana para Kamen Rider saling berkompetisi dalam pertarungan.</item>
+        <item>Kamen Rider Faiz memiliki teknologi canggih dan bertempur melawan makhluk bernama Orphenoch.</item>
+        <item>Berfokus pada permainan kartu dan pertarungan antara Kamen Rider dengan makhluk yang dikenal sebagai Undead.</item>
+        <item>Kamen Rider Hibiki mengambil pendekatan yang lebih artistik dan musikal dalam bertarung melawan makhluk iblis.</item>
+        <item>Berfokus pada perjalanan waktu dan memiliki banyak karakter yang dapat bertransformasi menjadi Kamen Rider dengan gaya dan kemampuan yang berbeda.</item>
+        <item>Memiliki unsur horor dan melibatkan pertarungan melawan makhluk vampir.</item>
+        <item>Menggabungkan semua Kamen Rider sebelumnya dan berfokus pada perjalanan lintas dimensi.</item>
+        <item>Menggunakan dua karakter utama untuk membentuk satu Kamen Rider, dengan kemampuan untuk beralih antara berbagai bentuk.</item>
+        <item>Berfokus pada kekuatan dan keinginan, menggunakan medali untuk mendapatkan kekuatan berbeda.</item>
+        <item>Mengambil latar belakang sekolah dan menggunakan tema luar angkasa, dengan kekuatan dari berbagai "Zodiac" dan "Switch."</item>
+        <item>Memiliki unsur sihir dan pertarungan melawan makhluk yang dikenal sebagai Phantoms.</item>
+        <item>Menggunakan konsep buah dan pertarungan antar Kamen Rider untuk mendapatkan kekuatan dari dunia lain.</item>
+        <item>Menggunakan kendaraan dan konsep polisi untuk melawan makhluk yang dikenal sebagai Roidmudes.</item>
+        <item>Berfokus pada tema hantu dan reinkarnasi, dengan kekuatan dari roh para pahlawan.</item>
+        <item>Mengambil konsep permainan video dan kesehatan, melawan makhluk yang dikenal sebagai Bugster.</item>
+        <item>Menggunakan konsep sains dan penelitian, melawan musuh dengan kekuatan dari Bottle.</item>
+        <item>Memperkenalkan elemen perjalanan waktu dan karakter dari Kamen Rider sebelumnya, serta penggunaan Ziku-Driver untuk bertransformasi.</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Yuusuke Godai, seorang pemuda yang menemukan kekuatan Kamen Rider Kuga, harus melawan Grongi, makhluk yang mengancam umat manusia dengan kekuatan misterius. Dalam perjalanannya, Godai berusaha memahami asal-usul kekuatannya dan melindungi orang-orang di sekitarnya.</item>
+        <item>Shouichi Tsugami terbangun tanpa ingatan dan menemukan bahwa ia adalah Kamen Rider Agito. Dalam pencariannya untuk mengungkap masa lalunya, ia melawan Unknown, makhluk misterius yang mengancam kehidupan manusia dan berusaha mencari tahu tentang koneksi antara mereka.</item>
+        <item>Shinji Kido terlibat dalam pertarungan berbahaya antara Kamen Rider yang saling bersaing untuk mendapatkan keinginan mereka. Ia harus melawan Mirror Monsters, makhluk dari dimensi lain, sambil mencari cara untuk menghentikan pertarungan yang mematikan ini.</item>
+        <item>Takumi Inui menemukan alat yang memberinya kekuatan Kamen Rider Faiz. Dia harus berjuang melawan Orphenoch, makhluk yang dulunya adalah manusia, sambil memahami kekuatan dan tanggung jawabnya sebagai Kamen Rider.</item>
+        <item>Kazuma Kenzaki menjadi Kamen Rider Blade dan terlibat dalam pertempuran melawan Undead, makhluk yang menimbulkan kekacauan. Dia harus menemukan cara untuk menghentikan Undead dan melindungi manusia sambil menyelidiki misteri di balik kekuatan kartu yang digunakannya.</item>
+        <item>Hibiki, seorang Kamen Rider, melawan Oni, makhluk jahat yang mengancam dunia. Dia menggunakan seni dan musik sebagai senjata untuk mengalahkan Oni dan melindungi manusia sambil menjaga keseimbangan antara dunia manusia dan iblis.</item>
+        <item>Ryotaro Nogami menjadi Kamen Rider Den-O dan melakukan perjalanan melalui waktu untuk melawan Imagin, makhluk yang ingin mengubah masa lalu untuk keuntungan mereka. Bersama teman-teman dari berbagai waktu, Ryotaro berjuang untuk melindungi masa depan.</item>
+        <item>Wataru Kurenai menjadi Kamen Rider Kiva, berjuang melawan Fangire, makhluk vampir yang menyerang manusia. Dia berusaha menemukan kebenaran tentang masa lalu keluarganya dan melindungi orang-orang dari ancaman Fangire.</item>
+        <item>Tsukasa Kadoya, sebagai Kamen Rider Decade, melakukan perjalanan ke berbagai dunia Kamen Rider yang berbeda. Dia harus menghadapi Dai-Shocker, organisasi jahat yang ingin menghancurkan semua Kamen Rider dan menaklukkan dunia.</item>
+        <item>Duo detektif, Shotaro dan Philip, menjadi Kamen Rider W untuk melawan Dopant, makhluk yang menggunakan kekuatan dari Gaia Memory untuk menciptakan kekacauan. Mereka bekerja sama untuk menyelesaikan misteri dan melindungi kota dari ancaman Dopant.</item>
+        <item>Eiji Hino menjadi Kamen Rider OOO dan melawan Greed, makhluk yang lahir dari keinginan manusia. Dia harus mengumpulkan medali untuk mengakses kekuatan yang berbeda dan menghentikan Greed yang mengancam keseimbangan dunia.</item>
+        <item>Gentaro Kisaragi menjadi Kamen Rider Fourze, melawan Zodiarts, makhluk yang bertransformasi dari siswa di sekolahnya. Dia berjuang untuk melindungi teman-temannya dan mengungkap misteri di balik kekuatan Zodiarts.</item>
+        <item>Haruto So menjadi Kamen Rider Wizard dan melawan Phantom, makhluk jahat yang muncul dari ketakutan manusia. Dia menggunakan kekuatan sihir untuk melindungi manusia dan mencari cara untuk menghentikan Phantom dari mengancam dunia.</item>
+        <item>Kouta Kazuraba menemukan kekuatan Kamen Rider Gaim dan terlibat dalam konflik antara Kamen Rider dan Inves, makhluk dari dimensi lain. Dia berjuang untuk melindungi kotanya dan mengatasi tantangan yang muncul dari pertarungan tersebut.</item>
+        <item>Shinnosuke Tomari, seorang polisi, menjadi Kamen Rider Drive dan melawan Roidmudes, makhluk cyber yang mengancam umat manusia. Dia menggunakan kendaraan dan teknologi canggih untuk menghentikan Roidmudes dan melindungi kota.</item>
+        <item>Takeru Tenkuji menjadi Kamen Rider Ghost dan melawan Ganma, makhluk yang ingin mengambil jiwa manusia. Dia berjuang untuk menemukan cara untuk menghentikan Ganma sambil berusaha mengungkap misteri di balik kematiannya sendiri.</item>
+        <item> Emu Hojo menjadi Kamen Rider Ex-Aid dan melawan Bugster, makhluk yang lahir dari permainan video yang berbahaya. Dia berjuang untuk melindungi pasien di rumah sakit dan menghentikan Bugster dari menyerang dunia nyata.</item>
+        <item>Sento Kiryu menjadi Kamen Rider Build dan terlibat dalam konflik melawan Smash, makhluk yang muncul dari eksperimen ilmiah yang gagal. Dia bekerja sama dengan teman-temannya untuk mengungkap kebenaran di balik kekuatan Bottle dan menghentikan Smash yang mengancam dunia.</item>
+        <item>Sougo Tokiwa menjadi Kamen Rider Zi-O dan melakukan perjalanan waktu untuk melawan Another Rider, versi jahat dari Kamen Rider sebelumnya. Dia berusaha melindungi masa depan sambil memahami perannya sebagai Kamen Rider dan menyelamatkan dunia dari ancaman yang datang dari berbagai dimensi.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a2/Kamen_Rider_Kuuga%2C_Blu-ray_BOX_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/e/e4/Kamen_Rider_Agito%2C_Blu-ray_BOX_1.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/7/75/Ryuki_Poster.jpg/revision/latest?cb=20240826125855</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/4/41/Kamen_Rider_555.jpeg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/7/76/Blade_Poster.jpg/revision/latest/scale-to-width/360?cb=20240826130147</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/d/d8/Hibiki7WarOni.jpg/220px-Hibiki7WarOni.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/b/b1/Kabuto_Poster.jpg/revision/latest?cb=20240826130323</item>
+        <item>https://m.media-amazon.com/images/M/MV5BOGQ2ZDk2YWMtZDA1Ni00NDU5LThjZjYtYTNkYzJkNmUwMWUxXkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMDBhZDUwZjYtZjNiMi00NTE5LWIxNWEtNWQ0NDI1NDAyMDJjXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNzQ5MjY3MjUtZjhlYS00YjEwLWE5M2YtNTRkZDU4ZDc5ODZkXkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/f/fa/W_Poster.jpg/revision/latest?cb=20220504183722</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/d/d2/OOO_Poster.jpg/revision/latest?cb=20240826131110</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/1/11/Fourze_Poster.jpg/revision/latest?cb=20240826131311</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNTkyOTViNDUtZTM5Ni00MGYzLTg4YTItZDgyMGM4YjdhYzcyXkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/b/ba/Gaim_Poster.jpg/revision/latest/scale-to-width/360?cb=20240826131627</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/e/e3/Drive_Poster.jpg/revision/latest?cb=20240826132201</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/5/58/Ghost_Poster.jpg/revision/latest?cb=20240826131801</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/2/2f/Ex-Aid_Poster.jpg/revision/latest?cb=20240826132310</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjQ1NjQzYmUtMDFkNi00ODRjLWFjMmItZmZiNDAyMmRiZTM5XkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/e/e6/Zi-O_Poster.jpg/revision/latest?cb=20240826132847</item>
+    </string-array>
+
+    <string-array name="data_photo_detail">
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20201002/kamen-rider-kuuga-thumbs-1795d8cbfd59fed3c75774544fe8325e.jpg</item>
+        <item>https://2.bp.blogspot.com/-qxW2laB1gXk/VtiHEGOEx-I/AAAAAAAAVA8/M5wPLWX7P9o/s1600/Kamen%2BRider%2BAgito.jpg</item>
+        <item>https://titipjepang.com/wp-content/uploads/2022/12/Ryuki-Sword.webp</item>
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20200928/faiz-krt-1828a7ddeaae9c9cbcb82983a27bfd3a.png</item>
+        <item>https://cdn.kyou.id/items/191339-flash-po-figure-rise-standard-kamen-rider-blade.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/3/37/Hibiki_Profile.png/revision/latest?cb=20210814160618</item>
+        <item>https://i.ytimg.com/vi/4hpd4lF8-lo/maxresdefault.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/post/20200304/dgcnfjbv4aalcss-7a64db94147632fc794f45dd2c3b3d8d_600x400.jpg</item>
+        <item>https://e0.pxfuel.com/wallpapers/512/10/desktop-wallpaper-kamen-rider-kiva.jpg</item>
+        <item>https://images.mubicdn.net/images/film/324766/cache-731740-1636526259/image-w1280.jpg?size=800x</item>
+        <item>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOvjmreY5MY-wuggUIRFTyxlqfSQmnVWX2CGr1mbtUAIhjcYkVzb7MhQjFLVJZXkWkcCpASzHPoSWsNl5aSTnyeqcqliefaS2GHamIDu65Hiww01XL7oYwNgdw44zPV6Pi_I_LojkgH4/w1200-h630-p-k-no-nu/Kamen_Rider_Double.jpg</item>
+        <item>https://www.greenscene.co.id/wp-content/uploads/2024/08/kamen-rider-oooo.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/8/8a/Bujin_Rider_Fourze.jpg/revision/latest?cb=20190928174416</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/5/5d/Wizard_Profile.png/revision/latest?cb=20190913155605</item>
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20210528/kamen-rider-gaim-kouta-kazuraba-aa99c886cb8903fe02b33a0e9c9808e5.jpg</item>
+        <item>https://pm1.aminoapps.com/6468/4252c3fc82f0b65d811cf8f1d7047fdab3895e9b_00.jpg</item>
+        <item>https://static.wikia.nocookie.net/kamenrider/images/f/f7/Ghost_Surprise_Future.png/revision/latest/scale-to-width-down/985?cb=20160915104137</item>
+        <item>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b86ba63-0b6d-4655-afc0-787ed9506cda/dcejqso-c53f5d04-0493-4851-a2cc-5f6db0e4205f.jpg/v1/fill/w_560,h_315,q_75,strp/_5_the_forbidden_continue_from_kamen_rider_ex_aid_by_infraredtoa_dcejqso-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzE1IiwicGF0aCI6IlwvZlwvMWI4NmJhNjMtMGI2ZC00NjU1LWFmYzAtNzg3ZWQ5NTA2Y2RhXC9kY2VqcXNvLWM1M2Y1ZDA0LTA0OTMtNDg1MS1hMmNjLTVmNmRiMGU0MjA1Zi5qcGciLCJ3aWR0aCI6Ijw9NTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.p0_A_7JuNuA8P4JYbohPar6ZMH42H3GW5lhySBHLww0</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDJmNTFhMGUtMjhjNS00NGU1LTkyNjgtM2E1YjRjNjliZGMyXkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/duniaku/post/20201008/kamen-rider-zio-d260a1ae3f4a5a4c81b298d3199b1e0f.png</item>
+    </string-array>
+
+</resources>

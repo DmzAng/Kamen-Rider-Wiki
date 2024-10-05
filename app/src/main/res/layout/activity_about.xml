@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="250dp"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="81dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/face"
+            app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.RoundedImageView" />/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/img_item_photo"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="5dp"
+            android:layout_gravity="center"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="Dimaz Anugrahman Yusuf"
+            android:textColor="@color/black"
+            />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="20dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="20dp"
+                    android:paddingLeft="45dp"
+                    android:text="@string/email" />
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:id="@id/tv_item_theme"
+                    android:layout_weight="1"
+                    android:text="@string/dimazanugrah64_gmail_com" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="20dp"
+                    android:paddingLeft="45dp"
+
+                    android:text="@string/github" />
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:id="@+id/tv_item_synopsis"
+                    android:layout_weight="1"
+                    android:text="Dimaz Anugrahman Yusuf" />
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+
+</ScrollView>
